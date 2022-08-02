@@ -77,15 +77,11 @@ Bantu kami dengan rating bintang 5 ya
 
 Klik tombol rating 
 ",
-"RATE_BUTTON" : "Rate 5 Stars",
-"LATER_BUTTON" : "Later",
-"ENABLE_SHARE_BUTTON" : false,
+"RATE_BUTTON" : "Rating Bintang 5",
+"LATER_BUTTON" : "Nanti",
+"ENABLE_SHARE_BUTTON" : true,
 "SHARE_TXT" : "
-this app is awesome 
-
-you need try to donwload this app
-i.ve download and so much happy
-
+Ayo Gunakan Aplikasi Go Pendamping Ini
 ",
 
 "MORE_BUTTON" : "Share Via WhatsApp",
