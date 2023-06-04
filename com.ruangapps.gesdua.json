@@ -22,9 +22,33 @@
     {
       "name": "Home",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
+      "icon": "https://img2.pngdownload.id/20180206/xzw/kisspng-pharmaceutical-drug-medicine-clip-art-cartoon-medicine-5a795370da3c99.9769427015179006568939.jpg",
       "url": "https://gesdua.online",
-      "url_dark": "https://htmlpreview.github.io/?raw.githubusercontent.com/solodroidev/content/uploads/html/webview/dark/home.html",
+      "url_dark": "https://gesdua.online",
+      "toolbar": true
+    },
+	   {
+      "name": "Cek PIM",
+      "type": "url",
+      "icon": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1078702682/f813c2a1-071e-43c0-88db-70ed7a4c08b4/0b6a85cd-aa1c-4252-b2ba-e79bd2410188/1920x1080/match/image.jpg",
+      "url": "https://gesdua.online/index.php/front/resep",
+      "url_dark": "https://gesdua.online/index.php/front/resep",
+      "toolbar": true
+    },
+	   {
+      "name": "Kreatinin",
+      "type": "url",
+      "icon": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1658717175/attached_image/kreatinin-dan-kesehatan-ginjal.jpg",
+      "url": "https://gesdua.online/index.php/front/keratinin",
+      "url_dark": "https://gesdua.online/index.php/front/keratinin",
+      "toolbar": true
+    },
+	   {
+      "name": "Login",
+      "type": "url",
+      "icon": "https://e7.pngegg.com/pngimages/420/4/png-clipart-login-computer-icons-login-button-miscellaneous-angle-thumbnail.png",
+      "url": "https://gesdua.online/index.php/login/login",
+      "url_dark": "https://gesdua.online/index.php/login/login",
       "toolbar": true
     },
    
