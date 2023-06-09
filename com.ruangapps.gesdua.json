@@ -3,7 +3,7 @@
     {
       "status": 1,
       "redirect_url": "",
-      "privacy_policy_url": "https://htmlpreview.github.io/?raw.githubusercontent.com/solodroidev/content/uploads/privacy/webview.html",
+      "privacy_policy_url": "https://ruangappsdev.blogspot.com/2023/06/gesdua-privacy-policy.html",
       "user_agent": "",
       "navigation_drawer": true,
       "navigation_icon_solid_color": false,
@@ -103,15 +103,9 @@
   "more_apps": [
     {
       "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
-    },
-    {
-      "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
+      "title": "Go Pendamping",
+      "image": "https://play-lh.googleusercontent.com/bL_sPetXCRzLzl_hh_5notFxLEeWfn1JBwnvbRKYMCdkU3791VK1ecHdgP36yL6eERQ=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.rms.gopendamping"
     }
   ]
 }
