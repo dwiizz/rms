@@ -5,7 +5,7 @@
       "redirect_url": "",
       "privacy_policy_url": "",
       "user_agent": "",
-      "navigation_drawer": false,
+      "navigation_drawer": true,
       "navigation_icon_solid_color": false,
       "geolocation": true,
       "webview_cache": true,
@@ -22,17 +22,17 @@
     {
       "name": "Home",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
-      "url": "https://htmlpreview.github.io/?raw.githubusercontent.com/solodroidev/content/uploads/html/webview/light/home.html",
-      "url_dark": "https://htmlpreview.github.io/?raw.githubusercontent.com/solodroidev/content/uploads/html/webview/dark/home.html",
+      "icon": "https://sidat.kaltaraprov.go.id/siap.png",
+      "url": "https://sidat.kaltaraprov.go.id/",
+      "url_dark": "https://sidat.kaltaraprov.go.id/",
       "toolbar": true
     },
     {
       "name": "Login",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/aliendroid.png",
-      "url": "https://aliendro.id/profile/solodroid",
-      "url_dark": "",
+      "icon": "https://ppdb.mtsn1lomboktengah.com/themes/bootstraplander/assets/img/baner-2.png",
+      "url": "https://sidat.kaltaraprov.go.id/login/index",
+      "url_dark": "https://sidat.kaltaraprov.go.id/login/index",
       "toolbar": true
     }
   ],
