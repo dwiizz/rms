@@ -22,9 +22,9 @@
     {
       "name": "Home",
       "type": "url",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
-      "url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/webview/light/home.html",
-      "url_dark": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/html/webview/dark/home.html",
+      "icon": "https://trenggalekkab.go.id/uploads/halaman/202101051609817643.png",
+      "url": "https://ruangmedia.id/live/webgis_pertanian/login/index",
+      "url_dark": "https://ruangmedia.id/live/webgis_pertanian/login/index",
       "toolbar": true
     },
     
