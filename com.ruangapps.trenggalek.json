@@ -7,7 +7,7 @@
       "user_agent": "",
       "navigation_drawer": true,
       "navigation_icon_solid_color": false,
-      "geolocation": false,
+      "geolocation": true,
       "webview_cache": true,
       "open_link_in_external_browser": false,
       "enable_rtl_mode": false,
@@ -39,7 +39,7 @@
   ],
   "ads": [
     {
-      "ad_status": 1,
+      "ad_status": 0,
       "main_ad": "admob",
       "backup_ad": "fan",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
