@@ -34,7 +34,7 @@
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
       "url": "privacy_policy.html",
       "url_dark": "privacy_policy_dark.html",
-      "toolbar": true
+      "toolbar": false
     }
   ],
   "ads": [
