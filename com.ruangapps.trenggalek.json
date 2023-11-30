@@ -23,8 +23,8 @@
       "name": "Home",
       "type": "url",
       "icon": "https://trenggalekkab.go.id/uploads/halaman/202101051609817643.png",
-      "url": "https://etandur.id/",
-      "url_dark": "https://etandur.id/",
+      "url": "https://etandur.id/login/index",
+      "url_dark": "https://etandur.id/login/index",
       "toolbar": false
     },
     
