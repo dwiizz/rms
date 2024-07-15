@@ -73,31 +73,45 @@
     }
   ],
   "categories": [
- 
+ {
+   "category_id": 1,
+   "category_name": "Flower Language",
+   "category_image": "https://i.pinimg.com/564x/ec/ad/51/ecad51402c8b874775cd98c838428ab4.jpg"
+ },
+ {
+   "category_id": 2,
+   "category_name": "Pink Flowers",
+   "category_image": "https://i.pinimg.com/564x/26/00/99/26009918389549d0f681ca7b6b1a5c40.jpg"
+ },
+ {
+   "category_id": 3,
+   "category_name": "Flower Bouquet",
+   "category_image": "https://i.pinimg.com/564x/c7/d7/21/c7d721adb5ce0f0b4b4c370a70f8b31c.jpg"
+ },
  {
    "category_id": 4,
-   "category_name": "Lego",
-   "category_image": "https://raw.githubusercontent.com/dwiizz/sb/main/22.png"
+   "category_name": "Aesthetic Flowers",
+   "category_image": "https://i.pinimg.com/564x/2b/24/ed/2b24ed4c408cd5c6c8030333a9eea951.jpg"
  },
-     {
-   "category_id": 4,
-   "category_name": "Aesthetic",
-   "category_image": "https://i.pinimg.com/564x/73/69/81/736981da3fb63d7aa653419b56229a34.jpg"
+ {
+   "category_id": 5,
+   "category_name": "AI Flowers",
+   "category_image": "https://i.pinimg.com/564x/23/35/95/2335955490f924d9b2568b04e0b0da2c.jpg"
  },
-    {
-   "category_id": 4,
-   "category_name": "Original",
-   "category_image": "https://raw.githubusercontent.com/dwiizz/sb/main/a13.png"
+ {
+   "category_id": 6,
+   "category_name": "Red Flowers",
+   "category_image": "https://i.pinimg.com/564x/71/e6/fa/71e6fa5a931c3c074adbb043b90c49fe.jpg"
  },
-     {
-   "category_id": 4,
-   "category_name": "Simple",
-   "category_image": "https://i.pinimg.com/564x/8d/d8/ae/8dd8ae2d107abaf0a9f026465c92a3f2.jpg"
+ {
+   "category_id": 7,
+   "category_name": "Purple Flowers",
+   "category_image": "https://i.pinimg.com/564x/1d/4c/b2/1d4cb20bcee0212aaad3345fdb260a7f.jpg"
  },
-     {
-   "category_id": 4,
-   "category_name": "Character",
-   "category_image": "https://i.pinimg.com/564x/2d/db/a8/2ddba8313c3496e8f1565cfc3e8862f6.jpg"
+ {
+   "category_id": 8,
+   "category_name": "White Flowers",
+   "category_image": "https://i.pinimg.com/564x/00/9e/cf/009ecfe3751c0ed2d7a8c15e52ff929b.jpg"
  }
 ],
   "wallpapers": [
