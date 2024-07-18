@@ -24,14 +24,6 @@
       "url": "https://gopendamping.com/",
       "url_dark": "https://gopendamping.com/",
       "toolbar": true
-    },
-    {
-      "name": "Privacy Policy",
-      "type": "assets",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
-      "url": "https://ruangappsdev.blogspot.com/2022/08/go-pendamping-privacy-policy.html",
-      "url_dark": "https://ruangappsdev.blogspot.com/2022/08/go-pendamping-privacy-policy.html",
-      "toolbar": true
     }
   ],
   "ads": [
