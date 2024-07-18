@@ -20,17 +20,9 @@
     {
       "name": "e-Tandur",
       "type": "url",
-      "icon": "https://gokups.menlhk.go.id/uploads/project/logo/2022-09-20-16-45-54_planting.png",
+      "icon": "https://trenggalekkab.go.id/uploads/halaman/202101051609817643.png",
       "url": "https://etandur.id/login",
       "url_dark": "https://etandur.id/login",
-      "toolbar": true
-    },
-    {
-      "name": "Privacy Policy",
-      "type": "assets",
-      "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy.png",
-      "url": "https://ruangappsdev.blogspot.com/2022/08/go-pendamping-privacy-policy.html",
-      "url_dark": "https://ruangappsdev.blogspot.com/2022/08/go-pendamping-privacy-policy.html",
       "toolbar": true
     }
   ],
