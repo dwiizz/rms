@@ -68,6 +68,13 @@
       "show_open_ad_on_app_resume": true
     }
   ],
-  "more_apps": 
+  "more_apps":  [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
  
 }
