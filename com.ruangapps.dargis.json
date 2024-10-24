@@ -21,8 +21,8 @@
       "name": "Home",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/solodroid.png",
-      "url": "https://dargis.id/",
-      "url_dark": "https://dargis.id/",
+      "url": "https://dargis.id/login/index",
+      "url_dark": "https://dargis.id/login/index",
       "toolbar": false
     },
    
